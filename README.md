@@ -23,4 +23,5 @@ Visualizations Build in the project:
 7.Q&A
 8.Map
 
-If you have not installed power bi check the dashboard 👉https://app.powerbi.com/view?r=eyJrIjoiM2NjYTI4ZWEtZmQyNS00OGZmLThiNDItNTE2NjVhOWI1MzA0IiwidCI6IjUxZWFjYmI0LTE4ZGItNGFkNS04ODdlLTY4YWRhNTE3Y2QyMiJ9
+If you have not installed power bi check the dashboard 
+👉https://app.powerbi.com/view?r=eyJrIjoiM2NjYTI4ZWEtZmQyNS00OGZmLThiNDItNTE2NjVhOWI1MzA0IiwidCI6IjUxZWFjYmI0LTE4ZGItNGFkNS04ODdlLTY4YWRhNTE3Y2QyMiJ9
